@@ -1,3 +1,3 @@
-# Pembuatan Website Menggunakan HTML & Bootstrap4
+# Web Portofolio 
 
-HTML sebagai salah satu cara dasar dan paling mudah yang digunakan untuk membuat suatu website. Bahkan apabila kita ingin menggunakan framework - framework front end seperti Vue, React
+Dibuat menggunakan HTML, CSS dan bootsrap 4. Jika anda ingin menggunakan template ini silahkan, it's free!
