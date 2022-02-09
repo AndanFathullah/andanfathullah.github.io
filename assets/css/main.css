@@ -1,3 +1,8 @@
+.site-banner{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
 .main-section {
   min-height: 100vh;
 }
